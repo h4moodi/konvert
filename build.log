@@ -1,0 +1,10 @@
+        Info Looking up installed tauri packages to check mismatched versions...
+   Compiling app v0.1.0 (/home/h4ma/konvert/src-tauri)
+    Finished `release` profile [optimized] target(s) in 32.58s
+       Built application at: /home/h4ma/konvert/src-tauri/target/release/app
+        Info Patching /home/h4ma/konvert/src-tauri/target/release/app with bundle type information: deb
+    Bundling konvert_0.1.0_amd64.deb (/home/h4ma/konvert/src-tauri/target/release/bundle/deb/konvert_0.1.0_amd64.deb)
+        Info Patching /home/h4ma/konvert/src-tauri/target/release/app with bundle type information: rpm
+    Bundling konvert-0.1.0-1.x86_64.rpm (/home/h4ma/konvert/src-tauri/target/release/bundle/rpm/konvert-0.1.0-1.x86_64.rpm)
+        Info Patching /home/h4ma/konvert/src-tauri/target/release/app with bundle type information: appimage
+    Bundling konvert_0.1.0_amd64.AppImage (/home/h4ma/konvert/src-tauri/target/release/bundle/appimage/konvert_0.1.0_amd64.AppImage)
